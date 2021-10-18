@@ -1,5 +1,7 @@
 # BrainSignalDistribution
 
+[![DOI](https://zenodo.org/badge/417160091.svg)](https://zenodo.org/badge/latestdoi/417160091)
+
 **Synopsis:**
 Image analysis of brain sections for the rapid quantification of hemispheric signals. This plugin calculates the ratio of integrated fluorescence between left and right brain hemisphere in low-magnification fluorescence microscopy slices of coronal brain cuts. Brain orientation detection and hemisphere assignment is done from an ellipse fit to a morphological reference image. For symmetric cuts the ellipse minor axis coincides with the brain longitudinal fissure.
 
