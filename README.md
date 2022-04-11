@@ -16,7 +16,7 @@ Image analysis of brain sections for the rapid quantification of hemispheric sig
 
 **Quick guide:**
 + Open the macro in Fiji/ImageJ: go to Plugins – Macros – Run... and select the .ijm or refer to https://imagej.nih.gov/ij/developer/macro/macros.html
-+ Define parameters: “Reference thresholding” and ”Dilatation step” may require some adapration depending on magnification and image quality. Leafe on default to start with. Adapt if brain outline is not correctly identified from morphological reference. Increase dilatation step for a smoother outline.
++ Define parameters: “Reference thresholding” and ”Dilatation step” may require some adaptation depending on magnification and image quality. Leave on default to start with. Adapt if brain outline is not correctly identified from morphological reference. Increase dilatation step for a smoother outline.
 + The ellipse fit is done automatically by default, but both center of mass and major axis can be specified manually if needed.
 + Proceed by clicking "OK". 
 + First dialogue box: open the morphological reference image, eg., DAPI signal (single channel image)
